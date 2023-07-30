@@ -1,0 +1,61 @@
+{
+  "heroes": [
+    {
+      "id": "0ae0bf03-d3c3-453f-841f-e4c0e2cad752",
+      "name": "передние сайлентблоки передних рычагов и и сайлентблоки развальных рычагов внутренние",
+      "description": "s",
+      "element": "water"
+    },
+    {
+      "id": "4901e1c1-5715-4e9b-9185-99943262d465",
+      "name": "ds",
+      "description": "asas",
+      "element": "fire"
+    },
+    {
+      "id": "34513afc-3a78-4734-aa8d-35ad193c2c4f",
+      "name": "aaa",
+      "description": "ssaa",
+      "element": "earth"
+    },
+    {
+      "id": "69111086-b756-462d-bc6b-351808eff724",
+      "name": "aaa",
+      "description": "ffff",
+      "element": "wind"
+    },
+    {
+      "id": "241dbc04-a50c-46f9-ae68-c729503be6ff",
+      "name": "ew",
+      "description": "asd",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
